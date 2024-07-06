@@ -7,6 +7,9 @@ Description
 
 The Aerial Vessel Objects Image Detection (AVOID) is a dataset developed to enhance vessel detection in aerial images using the YOLO (You Only Look Once) technique and similar methods. This dataset contains a wide variety of aerial satellite images captured under different environmental and lighting conditions, aiming to provide a robust foundation for training and validating object detection models.
 
+Created from thedataset "Ships in Aerial Images"  (https://www.kaggle.com/datasets/siddharthkumarsah/ships-in-aerial-images) by [Siddharth Sah ] after data reduction, label correction, resizing, and data augmentation.
+
+
 Dataset Content:
 
 The AVOID dataset consists of:

@@ -1,6 +1,6 @@
 # Dataset: Aerial Vessel Objects Image Detection - AVOID
 
-Authors: Daniel Miñan, Douglas Cabral
+Authors: Daniel Miñan (https://orcid.org/0009-0001-8707-3450), Douglas Cabral (https://orcid.org/0009-0005-6514-1255)
 
 Dataset: Aerial Vessel Objects Image Detection - AVOID
 Description
